@@ -1,41 +1,43 @@
 # 🚀 Python Projects
 
-This repository contains my Python projects created while learning and practicing Python.
-
----
+This repository contains beginner Python projects created while learning and practicing Python.
 
 ## 📂 Repository Structure
 
-```text
-Beginner-Projects/
+beginner-projects/
 │
-├── Band-Name-Generator
-```
+├── band-name-generator
+├── tip-calculator
+└── treasure-island-game
 
 ---
 
 ## 🛠️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,git,github" />
-</p>
+- Python
+- Git
+- GitHub
 
 ---
 
 ## 🎯 Goals
-
 - Build more Python projects
-- Improve programming skills
+- Improve problem-solving skills
 - Learn advanced Python concepts
 - Stay consistent with coding
 
 ---
 
-## 👨‍💻 About Me
+## 📌 Current Projects
 
-- Final Year BCS Student
-- Learning Python & C++
-- Building projects and improving coding skills
+### 🎵 Band Name Generator
+A simple project that generates fun band names using user inputs.
+
+### 💰 Tip Calculator
+Calculates tip amount and splits the bill between people.
+
+### 🏝️ Treasure Island Game
+A text-based adventure game with multiple story choices and endings.
 
 ---
+
 ⭐ More projects coming soon.
